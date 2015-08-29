@@ -4,7 +4,7 @@ _____________________________
 
 Multi layer Neural Network is used for classification of various handwritten digits.
 
-With MNIST dataset of handwritten digits is used as input to Multilayer Perceptron Neural Network.The sole aim of this project was to see the behaviour of the Neural Network under various settings. These settings include:-
+MNIST dataset of handwritten digits is used as input to Multilayer Perceptron Neural Network.The sole aim of this project was to see the behaviour of the Neural Network under various settings. These settings include:-
 
 1. Different number of Hidden Nodes:- We saw how the accuracy of the neural network changes with the number of hidden nodes in the system. And from the data we observed that the accuracy of the neural network increases with the number of hidden nodes. We observed that the accuracy improves drastically when increment is done on small number of nodes but after certain number of nodes, accuracy increases only in small amounts.
 
